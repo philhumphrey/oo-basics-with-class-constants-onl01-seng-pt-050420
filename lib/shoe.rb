@@ -21,3 +21,4 @@ BRANDS =[]
 #   BRANDS << brand
 #   end
 end
+end
